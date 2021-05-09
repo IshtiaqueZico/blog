@@ -1,6 +1,6 @@
 publishDir = "docs"
 
-baseURL = "http://localhost:1313"
+baseURL = "https://github.com/IshtiaqueZico/blog"
 languageCode = "en-US"
 title = "পাইথনে পয়লা"
 
