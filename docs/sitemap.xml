@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/</loc>
     <lastmod>2021-05-09T06:01:47+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/my-first-post/</loc>
     <lastmod>2021-05-09T06:01:47+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/</loc>
     <lastmod>2021-05-09T06:01:47+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/demo/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/image/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/image/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/the-figure-shortcode/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/the-figure-shortcode/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/post-with-featured-image/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/post-with-featured-image/</loc>
     <lastmod>2018-10-01T16:15:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/typography/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/typography/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/creating-a-new-theme/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/goisforlovers/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/hugoisforlovers/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/migrate-from-jekyll/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ishtiaquezico.github.io/blog/categories/</loc>
   </url>
 </urlset>
