@@ -1,7 +1,7 @@
 publishDir = "docs"
 
 baseURL = ""
-canonifyURLs = True
+canonifyURLs = true
 languageCode = "en-US"
 title = "পাইথনে পয়লা"
 
