@@ -1,6 +1,7 @@
 publishDir = "docs"
 
 baseURL = "https://ishtiaquezico.github.io/blog/"
+canonifyURLs = True
 languageCode = "en-US"
 title = "পাইথনে পয়লা"
 
