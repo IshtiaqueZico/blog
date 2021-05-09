@@ -1,0 +1,16 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-US"
+title = "পাইথনে পয়লা"
+theme = "hermit"
+
+[params]
+  description = "পাইথন দিয়া কী হবে তা পরের আলাপ"
+  githubUsername = "IshtiaqueZico"
+  twitterUsername = "iazico"
+  tagline = "পাইথন বোঝার নোটখাতা"
+
+  [[menu.main]]
+      name = "O nas"
+      weight = -110
+      identifier = "about"
+      url = "/about/"
